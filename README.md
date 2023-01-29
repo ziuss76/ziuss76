@@ -17,5 +17,5 @@
 </p>
 <h3 align="center"> 🐱 Visit Hochony Shop </h3>
 <p align="center">
-  <a href="hochony.com">hochony.com</a>
+  <a href="https://hochony.com">hochony.com</a>
 </p>
