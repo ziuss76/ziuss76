@@ -1,4 +1,4 @@
-<h2 align="center"> ziuss76 😸 </h2>
+<h2 align="center"> Welcome to my profile 😽 </h2>
 
 <h3 align="center">💻 Tech Stack</h3>
 
@@ -11,8 +11,11 @@
   <br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/></a>&nbsp
 </p>
-<br>
-<h3 align="center"> 📮 How to reach me </h3>
+<h3 align="center"> 📮 How to Reach Me </h3>
 <p align="center">
   <a href="mailto:ziuss76@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ziuss76@gmail.com"/></a>
+</p>
+<h3 align="center"> 🐱 Visit Hochony Shop </h3>
+<p align="center">
+  <a href="hochony.com">hochony.com</a>
 </p>
