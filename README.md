@@ -16,7 +16,3 @@
 <p align="center">
   <a href="mailto:ziuss76@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ziuss76@gmail.com"/></a>
 </p>
-<h3 align="center"> 🐱 Visit Hochony Shop </h3>
-<p align="center">
-  <a href="https://port-0-hochony1-1jmcjt27lb8p5idq.gksl2.cloudtype.app">hochony shop</a>
-</p>
