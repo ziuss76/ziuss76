@@ -1,4 +1,4 @@
-<h2 align="center"> Let's Start Small With Me 🐢 </h2>
+<h2 align="center"> 🐢 Let's Start Small With Me </h2>
 
 <h3 align="center">💻 Tech Stack</h3>
 
