@@ -14,5 +14,5 @@
 </p>
 <h3 align="center"> 📮 How to Reach Me </h3>
 <p align="center">
-  <a href="mailto:ziuss76@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ziuss76@gmail.com"/></a>
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ziuss76@gmail.com"/>
 </p>
